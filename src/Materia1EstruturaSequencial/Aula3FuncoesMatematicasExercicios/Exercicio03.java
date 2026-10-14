@@ -1,4 +1,4 @@
-package EstruturaSequencial.Aula3FuncoesMatematicasExercicios;
+package Materia1EstruturaSequencial.Aula3FuncoesMatematicasExercicios;
 
 import java.util.Scanner;
 

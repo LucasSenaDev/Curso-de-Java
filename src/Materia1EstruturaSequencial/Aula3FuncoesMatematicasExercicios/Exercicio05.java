@@ -1,6 +1,4 @@
-package EstruturaSequencial.Aula3FuncoesMatematicasExercicios;
-
-import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
+package Materia1EstruturaSequencial.Aula3FuncoesMatematicasExercicios;
 
 import java.util.Locale;
 import java.util.Scanner;
